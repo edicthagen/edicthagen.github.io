@@ -1,2 +1,0 @@
-# edicthagen.github.io
-blabibld
