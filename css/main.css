@@ -280,6 +280,14 @@ hr {
   width: 960px;
   position: relative;
 }
+
+.wrapper-heading {
+  margin: 0 auto;
+  width: 960px;
+  position: relative;
+  background-color: rgba(10,10,10,.6);
+}
+
 .content {
   padding: 50px 0;
 }
