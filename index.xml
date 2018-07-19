@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ed-ICT Network Meeting</title>
-    <link>https://edicthagen.github.io/</link>
+    <link>http://edicthagen.github.io/</link>
     <description>Recent content on Ed-ICT Network Meeting</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://edicthagen.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://edicthagen.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

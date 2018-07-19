@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://edicthagen.github.io/categories/</loc>
+    <loc>http://edicthagen.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://edicthagen.github.io/</loc>
+    <loc>http://edicthagen.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://edicthagen.github.io/tags/</loc>
+    <loc>http://edicthagen.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
