@@ -407,6 +407,14 @@ nav {
 /* =============================================================================
    SPEAKER
    ========================================================================== */
+
+.setting-list li {
+  list-style: disc;
+  font-size: 1.6em;
+  line-height: 1.6em;
+  margin-left: 1em;
+}
+
 .speakers-item {
   position: relative;
   min-height: 180px;
